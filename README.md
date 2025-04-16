@@ -1,3 +1,13 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFtcjZrczRjY2hrMTY3MHRscjVmeGxnY2xjbXNoNXEyYWNuMHhlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=supergioo0.supergioo0&"  />
+</div>
+
+###
 <h1>Hi 👋, I'm Giorgio Ciafardoni</h1>
 <p>An aspiring developer from Greece</p>
 <h2>🚀 Languages and Tools I Use</h2>
