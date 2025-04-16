@@ -3,11 +3,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=supergioo0.supergioo0&"  />
-</div>
-
-###
 <h1>Hi 👋, I'm Giorgio Ciafardoni</h1>
 <p>An aspiring developer from Greece</p>
 <h2>🚀 Languages and Tools I Use</h2>
