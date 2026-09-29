@@ -11,7 +11,7 @@
 ### 🧭 About Me
 
 - 🎓 Computer Science student with a focus on AI systems — RAG chatbots and multi-agent architectures
-- 💻 Several years of hands-on Python, with working experience in SQL, JavaScript, HTML/CSS and C#
+- 💻 Several years of hands-on Python, with working experience in SQL, JavaScript, HTML/CSS
 - 🛠️ Comfortable across the stack: from backend logic to interface design in Figma
 - 📫 Best way to reach me: LinkedIn (below)
 
@@ -21,7 +21,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
