@@ -8,12 +8,12 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 🎓 Computer Science student with a focus on AI systems — RAG chatbots and multi-agent architectures
-- 💻 Several years of hands-on Python, with working experience in SQL, JavaScript, HTML/CSS
-- 🛠️ Comfortable across the stack: from backend logic to interface design in Figma
-- 📫 Best way to reach me: LinkedIn (below)
+-  Computer Science student with a focus on AI systems — RAG chatbots and multi-agent architectures
+-  Several years of hands-on Python, with working experience in SQL, JavaScript, HTML/CSS
+-  Comfortable across the stack: from backend logic to interface design in Figma
+-  Best way to reach me: LinkedIn (below)
 
 ---
 
